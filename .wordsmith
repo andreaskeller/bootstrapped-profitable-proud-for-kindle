@@ -1,10 +1,5 @@
 ---
-edition:    0.1
-language:   en
-author:     Your Name
-title:      Your Book Title
-cover:      assets/images/cover.jpg
-
-# Other configuration options
-# If you need to specify the font to use non-unicode characters (e.g. Chinese)
-# font:       HanaMinA
+edition:   0.1
+language:  en
+author:    Basecamp (former 37signals);Matt Linderman
+title:     Bootstrapped, Profitable, & Proud

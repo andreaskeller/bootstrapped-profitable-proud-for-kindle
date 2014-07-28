@@ -2,7 +2,7 @@
 
 ## The liability of growth
 
-<em>This is part of our <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">“Bootstrapped, Profitable, &amp; Proud”</a> series which profiles companies that have $1MM+ in revenues, didn’t take VC, and are profitable. <strong>Note:</strong> Seth Kravitz of InsuranceAgents.com will respond today (12/7) in the comments section to reader questions.</em>
+<em>This is part of our <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">“Bootstrapped, Profitable, &amp; Proud”</a> series which profiles companies that have $1MM+ in revenues, didn’t take VC, and are profitable. ### Note: Seth Kravitz of InsuranceAgents.com will respond today (12/7) in the comments section to reader questions.</em>
 
 “In 2007 we did $750,000 in revenue with five employees. In 2008 we did $12 million with twelve people,” says Seth Kravitz of <a href="http://www.insuranceagents.com/">InsuranceAgents.com</a>, a site that helps consumers save money on their insurance.
 
@@ -34,7 +34,7 @@ A publication Kravitz launched Nov 1st that “celebrates entrepreneurship in Ch
 
 Nonetheless, there were plenty of negative opinions floating around at first, according to Kravitz. “All the naysayers from family to friends to advisers of all sorts telling us to focus on college or focus on getting careers. Competitors and other insurance industry ‘experts’ telling us there was too much competition and that the big players had been doing it for far too long for us to make a dent,” he says. “Most didn’t think we would last even six months. A lot of people didn’t understand the business model so they gave us bad advice, which we luckily recognized quickly.”
 
-<strong>The hurdles</strong> 
+### The hurdles 
 That period of rapid growth wasn’t the only difficult time. One of the biggest problem areas the company faced was hiring and training. “That was a big mistake at first. You need to be surrounded by good people, I can’t stress that enough,” he says.
 
 What does he now think are the keys to hiring and training? “Patience,” he says. “Having the patience to sit through 10+ interviews for each position you are hiring to find the right person. At first we just hired as people would come in and we took them at their word. Huge mistake. Never do that.
@@ -58,7 +58,7 @@ Though it may sound contradictory, the company is trying to build an environment
 
 “At the same time, we love to work fast and get our products out there. We don’t see any point in developing something for a year before launching it. We like to push our new features live — honestly, sometimes before they are truly ready — to see what the feedback is and what we can improve. So, you can say we like to keep pushing things and never get too comfortable. You get comfortable, you get forgotten.”
 
-<strong>Related:</strong> 
+### Related: 
 <a href="http://www.insuranceagents.com/">Visit InsuranceAgents.com</a>
 <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">More “Bootstrapped, Profitable, &amp; Proud” posts</a> [Signal vs. Noise]
 

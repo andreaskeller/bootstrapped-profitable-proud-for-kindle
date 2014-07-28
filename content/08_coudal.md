@@ -10,7 +10,7 @@ To illustrate his point, he brings up the product that now generates the most re
 
 ![JC](assets/images/jim-coudal.jpg)
 
-<strong>Evolving goals</strong> 
+### Evolving goals 
 Coudal started out decades ago as a creative director for a big Chicago ad agency working on high profile accounts. But even then, he wasn’t happy with the system. He’d reach goals he set for himself yet still found himself dissatisfied.
 
 "There’s this great quote by Dan Gilbert. He said that the reason that most of us are so unhappy most of the time is that we make our goals for the people we are when we set them, not for the people we’re gonna be when we reach them," Coudal explains. “And when I started at an ad agency I said, ‘I need to be a creative director.  I need to be a hotshot creative director in an agency that’s highly visible.’ And I got there and was miserable doing work I wasn’t particularly proud of for people I didn’t like."
@@ -21,7 +21,7 @@ That’s when he left and, along with partners Susan Everett and Kevin Guilfoile
 
 "One thing leads to another and all of a sudden you look at the work you’re producing and you’re not proud of it and you’re out at the bar after work making fun of your clients.  That’s funny for a little while, but that’s no way to go through life.  It makes you jaded.  If you don’t like your job, there’s something wrong. And going to the bar and complaining about your job is a symptom of something wrong.”
 
-<strong>Building an audience</strong> 
+### Building an audience 
 That’s when the 2001 downturn occurred. Despite the negative environment at the time, one thing  going well for the agency was <a href="http://www.coudal.com/">Coudal.com</a>, one of the first design-related blogs to gain popularity. "I kind of started blogging although there was no word ‘blogging’ at the time," he says. "We started updating the site every day with interesting links to other places on the web. And people reacted.  People were coming to watch and we were running <a href="http://www.layertennis.com/">Photoshop Tennis</a> just for fun and people were watching that.  I sort of figured if all these people are coming to our site every day, they must be like us somehow and maybe we could find a way to make something that they’d be interested in buying.
 
 "So we made an arbitrary decision that within two years we wanted half of our revenue to come from things that we own rather than from work that we did for other people.  Then we went back and did a lot of crappy work for people to make payroll."
@@ -32,12 +32,12 @@ Though the film series never turned into anything, the case did. Coudal says, "I
 
 ![JB](assets/images/studio430.jpg)
 
-<strong>The Deck</strong> 
+### The Deck 
 The next product domino fell as a result of the firm’s struggle to advertise the cases. Coudal explains, "That’s actually why we started <a href="http://decknetwork.net/">The Deck</a>, because it was such a pain in the ass to advertise Jewelboxing to the people we wanted to reach — meaning design web and creative professionals, filmmakers, animators, photographers, illustrators, coders, animators and all these kind of people.  It was impossible to reach them all at once.  You had to buy a thousand little buys on a thousand little sites and it was a royal clusterfuck and so that actually motivated us to start The Deck. If we can’t find a way to advertise our product, let’s make a way because there’s gotta be other people like us who wanna reach that audience. Now there are 55 sites on The Deck and last month we served up over 100 million ads for advertisers like Microsoft, Adobe, and Rackspace."
 
 The firm realized the system they had in place could be used for other products too. "We built our own fulfillment system and we knew how to market online and we knew how to process payments and we knew how to do customer service," he says. "We were gradually building an automated pack-and-ship system and we’re building shopping carts and all of that so it became pretty obvious that we need to find another thing to sell because we have all this knowledge we’ve learned.  It’s not just the physical infrastructure but the mental infrastructure.”
 
-<strong>"An authentic American brand"</strong> 
+### "An authentic American brand" 
 That’s when Field Notes dropped into Coudal’s lap. "<a href="http://draplin.com/">Aaron Draplin</a> out of Portland came up with this idea of a little Field Notes notebook and sent them out to his friends as a kind of a goofy gift. And the day that I got it, I called him up and I said, ‘Let’s make some of these and sell them.’  And he said OK.  We did a short run and opened the site up and made 13 sales on the first day.  We thought, ‘Well, that’s sort of interesting.’"
 
 Coudal felt the big player in the field, Moleskine, was ripe for taking down. "I was not buying the bullshit from Moleskine about the Picasso notebook that’s made in China," he says. "And I personally needed a notebook I could carry with me. And I liked the aesthetic of them, the sort of 1930s and 40s mid-American agricultural design, the Futura typeface, the fact that we are only sourcing materials from the United States.  The paper is milled in the United States.  The ink is produced in the United States.  They’re assembled and printed in the United States.  There’s something about the Field Notes that’s equally as attractive to a coffee-swirling hipster in Brooklyn as it is to a beer-swilling mammal killer in the Upper Peninsula of Michigan; This is a true authentic American brand.”
@@ -48,7 +48,7 @@ That authenticity is carried across all the marketing too. "In our marketing of 
 
 Field Notes has also taken an unusual approach to in-store sales by targeting clothing retailers instead of stationery stores. "We’re in 300 stores now — and in big places like J. Crew," he explains. "But we didn’t approach it like ‘We made this stationery project, let’s get this into paper stores.’  We did exactly the opposite.  Our first target was men’s fashion so we were selling them into stores that were selling interesting iconic American brands of shoes, belts, and pants. And it allowed us to bypass the whole idea of going to the paper show and competing against all the other notebooks in the world because we weren’t interested in it."
 
-<strong>Satisfying curiosity</strong>
+### Satisfying curiosity
 ![stomp](assets/images/pie_stomp.gif)Despite the varied efforts, one consistent theme for the firm is a sense of curiosity and playfulness (e.g. the recent <a href="http://coudal.com/abovethesun/">Above the Sun</a> film short or the image from the Jewelboxing site to the right). That attitude attracts kindred spirits. "In our experimental films, in our contests, in our blog postings, and the products we make, we are trying to satiate our own curiosity and interest,” he says. “And we just take it on faith that there are a lot of people who share those curiosities and those interests with us. And if so, they will buy our products and they’ll watch our movies. Maybe you don’t have to sell to everybody.  Maybe there’s enough people like us."
 
 How does he measure the impact, say, a movie project has on the bottom line? "I don’t have a spreadsheet that shows what good it does," he answers. "We’ve sort of been happy without spreadsheets now for about 13 years. We do a lot of things just because we wanna do them. Many people who buy Field Notes have no idea what Coudal is, but Coudal.com is the spine of the operation.  And so if people come there and appreciate the films we make and the contests we do and the things we write and the jokes that we make, then those people will turn into Field Notes customers or they’ll watch Layer Tennis or they will advertise their product on The Deck or they will click on a Deck ad."
@@ -59,12 +59,12 @@ That audience also appreciates the firm’s transparent approach to business, ac
 
 And despite the negative associations from his days of doing client work, Coudal admits it paved the way for the firm’s current approach. He says, "The client work taught us how to be filmmakers, how to be writers and art directors, how to build websites, how to write headlines, and how to negotiate with printers. All of these things that we sort of take for granted that we have in our toolbox, we learned all that working on other people’s business."
 
-<strong>The next swing?</strong> 
+### The next swing? 
 As for the future, the company has more big plans for Field Notes and The Deck. But Coudal wants to make sure there are new ideas in the mix too. "Field Notes and The Deck are both companies that are growing and profitable and take a lot of work to maintain and to move forward with. But it’s not the same as jumping into the deep end on something," he says. "We used to have a new idea every couple of weeks and most of them were terrible but now we’re just having a new idea every couple of months — and they’re still mostly terrible so you need to get up to bat a lot to hit a lot. If you don’t swing once in a while, you can’t expect to hit one out.
 
 It all goes back to the curiosity thing. "Our number one value isn’t in any of the skills we have.  It’s that we’re essentially curious,” he explains. “I think everybody who’s good creatively gets bored easily.  That’s the thing.  If you’ve done it before, then do something else. When we start a new company, I guarantee it’s not gonna be anything to do with notebooks."
 
-<strong>Related</strong> 
+### Related 
 <a href="http://37signals.com/svn/posts/975-advice-from-coudal-on-how-to-transition-from-client-work-to-products">Advice from Coudal on how to transition from client work to products </a> [Signal vs. Noise]
 <a href="http://37signals.com/svn/archives2/fireside_chat_richard_bird_jim_coudal_and_carlos_segura.php">Fireside Chat: Richard Bird, Jim Coudal, and Carlos Segura</a> [Signal vs. Noise]
 <a href="http://www.extractable.com/blog/?p=58">Jason Fried / Jim Coudal keynote at <span class="caps">SXSW</span> interactive</a> [Extractable]

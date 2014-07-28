@@ -12,7 +12,7 @@ After leaving a start-up that blew millions of dollars without ever accomplishin
 
 For almost the first year, the company was just the three founders. “We worked from our homes and got together a few times a week,” says Graff. “We then got a tiny office with three desks so we could work together. Now with 50 employees, about half our staff works in our office and the other half from home.”
 
-<strong>A different approach to tickets</strong> 
+### A different approach to tickets 
 Goldstar’s approach contrasts with other ticket sellers. Conventional brokers buy high-demand tickets and sell them at a premium, sites like <a href="http://www.stubhub.com/">stubhub.com</a> let people sell tickets at market prices, <a href="http://www.ebay.com/">eBay</a> lets them auction to the highest bidder.
 
 Goldstar, on the other hand, goes after leftover seats – to sports, theater, concerts, comedy, and more – and sells them at half-price. Venues cover costs and use the unsold inventory as a marketing tool to reach new audience. Customers get to try new things without the risk of paying full price. Graff says, “When we get people to go out and see a show or band they wouldn’t normally have gone to, it’s a win — a win for us, for our member, and for our venue.”
@@ -23,12 +23,12 @@ The founders have no interest in exiting either. Graff says, “There’s really
 
 <a href="https://www.goldstar.com/" class="image">![](assets/images/623-goldstar.png)</a>
 
-<strong>Attacking Ticketmaster</strong> 
+### Attacking Ticketmaster 
 A key aspect of the company’s early strategy was taking on the industry’s reigning giant. “For the first few years, we picked a fight with Ticketmaster,” says Graff. “They claimed exclusivity and blocked their customers — our venues — from working with us. We never played the exclusivity game. Our partners can leave at any time. We work hard to keep them, rather than engaging in legal shenanigans to try to force them to stay. And now Ticketmaster is a partner of ours. In fact, I think we’re the only authorized third-party website that can sell Ticketmaster inventory.”
 
 Forging its own path helped the company avoid the anger that’s often targeted at ticket sellers. “The ticketing industry has a bit of shady element,” says Graff. “People hate brokers. People hate Ticketmaster. But people love us. It pays to be the white hat.”
 
-<strong>Goldstar 101</strong> 
+### Goldstar 101 
 The Goldstar workplace is a streamlined one. “Our goal as a company is to get people to go out more, so we don’t have a foosball or ping pong table,” Graff says.  There’s no Xbox 360. We don’t do laundry or have a cafeteria. Everyone works hard and gets home to their lives. I’ve previously been at jobs that required 60-80 hours a week. We don’t do that. We work smarter, not longer. But we also have fun. Employees get comp tickets to shows. Plus our venues are constantly inviting us to some great events, so we go out a lot too.”
 
 All employees get trained across the company too. Everyone sits down to do customer service work during their first week. Everyone hears how the venue relations team works. “Everyone learns ‘Goldstar 101’ to make sure we all share the same values,” explains Graff.
@@ -39,7 +39,7 @@ Graff says A/B testing and a focus on data is a big part of Goldstar’s success
 
 The company also avoids putting any third party ads on its site. “People tell us we can make a little extra money by putting ads on our site. Everything on our site is an ad for what we sell. We make more money from people clicking deeper-in than we would from them clicking out. Pass on that advice.”
 
-<strong>“You gotta get it right”</strong> 
+### “You gotta get it right” 
 Owning the whole experience is another challenge for the company. “Our business is hard.  People buy tickets from us, make plans and drive to a venue. If it goes wrong, they’re mad, and just giving them their money back doesn’t fix it. They might’ve paid a babysitter or been embarrassed on a date,” Graff explains.
 
 ![](assets/images/624-goldstar_tips.png)
@@ -53,7 +53,7 @@ Owning the whole experience is another challenge for the company. “Our busines
 
 (Note: Goldstar’s Robert Graff answers reader questions in the comments section.)
 
-<strong>Related</strong>
+### Related
 <a href="https://www.goldstar.com/">Goldstar.com</a>
 <a href="http://query.nytimes.com/gst/fullpage.html?res=9907E4DC173EF936A25752C1A9609C8B63">Nights Out in New York Just Got Cheaper</a> [NY Times profile of the company]
 

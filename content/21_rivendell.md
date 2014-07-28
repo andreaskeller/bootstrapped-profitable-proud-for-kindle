@@ -2,14 +2,14 @@
 
 <em>A while back, we posted about <a href="http://37signals.com/svn/posts/2589-on-writing-selling-gear-and-teaching-about-bikes-at-rivendell">the no-nonsense, opinionated, shopping/educational content</a> at  <a href="http://www.rivbike.com/">Rivendell</a>, a small specialty bicycle business based in San Francisco. Recently, we talked with Rivendell owner Grant Petersen to find out more about his business. (Grant also answers some reader questions in the comments.)</em>
 
-<strong>What custom means</strong> 
+### What custom means 
 When Grant Petersen was 19, he ordered a custom bamboo fly rod made by Doug Merrick of <a href="http://web.winstonrods.com/">the Winston Rod Company</a>. “I wanted red winding on the guides — ‘Like a <a href="http://www.hlleonard.com/">Leonard</a> rod,’ I said —  and a cork grip shaped like a <a href="http://www.efpaynerodcompany.com/">Payne</a> rod. They were two other fancy rods,” explains Peterson. Merrick refused. “I won’t do it,” he told Petersen. “It wouldn’t be my rod, then.”
 
 Petersen says, “I felt ashamed for having asked, but glad to have been told that. And it made me appreciate the details that made a Winston a Winston.” Decades later, Petersen points to that interaction as inspiration for how he deals with customers at <a href="http://www.rivbike.com/">Rivendell</a>, his biking business. “I don’t want anybody to feel ashamed for asking us to drill holes in forks or make a bike with low ‘trail,’ but I’m resolved not to do it for the same reason Doug Merrick held his ground.
 
 “To a customer, a custom frame can mean ‘I pay you money and you let me design the bike,’ but that’s not what custom means here. We’ve turned down ‘custom’ orders when it’s meant all we do is collect the money and facilitate the customer’s own design. It can be seen as not customer-friendly, but in the end it means I know that every custom has the qualities I value and a certain amount of integrity. If you stand for something and are committed to it, then you dilute it if you introduce something that’s less pure or hard-core.”
 
-<strong>Opinions are mandatory</strong> 
+### Opinions are mandatory 
 Rivendell sells the kinds of bikes and bike gear you can’t get in a normal bike shop. According to Petersen, “99 percent of the bike market — designers, buiders, distributers, retailers, buyers, and riders — are selling the wrong bikes to the wrong people for the wrong reasons.”
 
 <a href="http://37signals.com/svn/posts/2589-on-writing-selling-gear-and-teaching-about-bikes-at-rivendell">Strong opinions</a> are at the heart of Rivendell’s mission. “Specs are fine, but they take two seconds, and opinions, if they’re based on experience, are more interesting. If you know about something, you have an opinion about it.
@@ -34,7 +34,7 @@ One thing Petersen avoids is the word “very.” He explains, “In 16 years of
 ![bike](assets/images/mark_s_roadeo.jpg)
 <em><a href="http://www.rivbike.com/products/show/roadeo/50-618">The Roadeo</a> from Rivendell</em>
 
-<strong>Formed out of Bridgestone’s ashes</strong> 
+### Formed out of Bridgestone’s ashes 
 Before Rivendell, Petersen worked at Bridgestone Cycle (U.S.A.) for ten years as Marketing Director. He also had design input, wrote ads, was the media contact, and served as in-house technical guy. While there, he spearheaded Bridgestone’s attempt to bypass dealers and sell what he calls “out there gear” directly to customers via direct marketing and newsletters.  When Bridgestone shut down, Petersen had developed a reputation that allowed him to start Rivendell with a built-in audience.
 
 As for money, Petersen got by with his severance package and a little help from his friends. “I left Bridgestone with $23,500 in after-tax severence pay. I took that, cashed in some <span class="caps">IRA</span> money, made Rivendell an S-Corp, and sold stock at $1 a share to friends (before we made our first sale). All that combined came up to  $89,000 to start the business, with me owning about 60 percent of that.
@@ -43,7 +43,7 @@ As for money, Petersen got by with his severance package and a little help from 
 
 One thing Petersen didn’t worry about while starting up: how to get out. He says, “When you write a business plan, the last thing you address is your exit strategy. And when I started Rivendell and got a book of business plan templates, I’d never even heard the term. My reaction was, ‘What’s this stuff about getting rid of the business? I want to make a business and have a job!’”
 
-<strong>Profit isn’t the only thing</strong> 
+### Profit isn’t the only thing 
 From there, revenue began climbing. According to Petersen, sales last year were about $2.7 million dollars. Still, much of the company’s value is in its inventory. “I’d say we’re wildly successful, but don’t have wild profits to show for it. We’re established, more people know about us, and we have loyal customer who tell their friends about us. And, especially important to me, we employ about 13 terrific people, and I think every one of them would tell you this is the best job they’ve ever had.
 
 “I think, if your main reason for being in business is to maximize profitability, you must hate the work itself. We recently got in some custom-made-for-us tiddly winks made out of tagua nuts. They cost us $13 a set (of 25) and we sell them for $20 and donate the difference to charity. A profit-first business could never do that. It would miss out on the fun.
@@ -52,7 +52,7 @@ From there, revenue began climbing. According to Petersen, sales last year were 
 
 That attitude helps to explain the company’s charitable streak too. It raised over $50,000 for <a href="http://www.smiletrain.org/">Smile Train</a> last year and gives money to other charities too. Petersen says, “Everybody here knows he or she can give a bike away to somebody who, for whatever reason, clearly warrants a free bike and can’t afford it. They’re expensive bikes, too.”
 
-<strong>Running hot and cold</strong>  
+### Running hot and cold  
 One thing employees must deal with is a workplace that runs hot and cold. Literally. “We have six continguous 900-square foot units in an uninsulated building intended for car repair businesses,” explains Petersen. “Our record cold morning was 38 degrees — cold enough to solidify the olive oil. Our record heat was 111F, and I’m talking about in the work area, not outside. At this moment, I’m freezing. Bad planning, clothes-wise, today.”
 
 ![tree](assets/images/HB_QB.jpg)Employees know what they’re in store for when they start. Petersen says, “Every new hire gets told the story before they commit, and nobody’s left because of the weather. You have your main task, and you can grow it  as you like, or take on other work as you’re interested in it. Everybody works really hard, and that feeds on itself. We’re all friends, and it makes work fun.
@@ -63,7 +63,7 @@ One thing employees must deal with is a workplace that runs hot and cold. Litera
 
 “I want to sell it to the employees within ten years, continue to have some involvement, but see them continue the direction and increase our influence.”
 
-<strong>Pick something the big guys don’t care about</strong>
+### Pick something the big guys don’t care about
 Petersen’s advice for others who want to get a business off the ground: “Don’t copy anybody else. So many businesses look at the trends and follow the leaders hoping they can be a leader, or can at least live in the wake of the leader. There’s a cliche that, ‘If it’s a good idea, it’s too late,’ and I go along with that. Pick something the giants in that industry don’t care about, or something they can’t get into without shooting themselves in the foot.
 
 “For instance, we do hand-made lugged steel bikes with decidedly anti-racerlike qualities to them. They’re comfortable, strong, versatile, and will last 20 to 50 years. We hate carbon fiber, and we can say that. Now, if Trek or Giant or somebody catches wind that a certain segment of the bike market is getting into lugged steel bikes, they still won’t be attracted to it, for two reasons. One, it’s so small. That shouldn’t matter to a new business, but it limits the appeal to an established leader. And two, we can position lugged steel bikes as the better-safer-smarter alternative to carbon, but they can’t, because carbon’s their bread and butter. It would be like a smoke shop selling anti-oxidants or jumpropes. It can’t work.
@@ -77,5 +77,5 @@ Petersen’s advice for others who want to get a business off the ground: “Don
 
 <em>This is part of our <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">“Bootstrapped, Profitable, &amp; Proud”</a> series which profiles companies that have over one million dollars in revenues, didn’t take VC, and are profitable.</em>
 
-<strong>Related</strong>: <a href="http://www.pushbuttonfor.org/interview-with-grant-petersen-of-rivendell-bicycles/">Interview with Grant Petersen of Rivendell Bicycle Works</a> [Push Button For]
+### Related: <a href="http://www.pushbuttonfor.org/interview-with-grant-petersen-of-rivendell-bicycles/">Interview with Grant Petersen of Rivendell Bicycle Works</a> [Push Button For]
 

@@ -14,7 +14,7 @@ By July, sales were far exceeding the earnings from freelance work. So they gave
 
 ![woothemes](assets/images/woothemes-6.jpg)
 
-<strong>10-15% month-on-month growth</strong> 
+### 10-15% month-on-month growth 
 In the two and a half years they’ve been operating, they’ve had a consistent growth in revenue (doubled it in the last 12 months actually). Pienaar says, “I think the important thing for us is that we have organically built a revenue &amp; business model that is based on sustainable growth (approximately 10-15% month-on-month in the past 18 months).” They also now have five employees working with them (<a href="http://www.woothemes.com/meet-the-team/">the team</a>).
 
 Bootstrapping the whole thing meant no investors were needed. “We’ve been making money from the very first minute we released our first themes, which means that we didn’t need to pay back loans or really invest in any infrastructure when we started out,” according to Pienaar. “We also had the benefit of being able to cover our own lifestyle costs in the initial phases via doing freelance work; so we bought ourselves a bit of time.”
@@ -25,7 +25,7 @@ According to Pienaar, the key is avoiding bloat. “We are extremely ambitious a
 
 Pienaar’s fine with the moniker of “lifestyle business,” even if it means some view it less seriously than “real” businesses. “Serious businesses are always on the hunt to increase <span class="caps">ROI</span> &amp; the financial bottom line,” he says. “With WooThemes we’re trying to find that balance between financial ambition and the happiness that WooThemes creates in our individual lives.”
 
-<strong>Collaborating across continents</strong> 
+### Collaborating across continents 
 Half of the team is located in the Cape Town office, and the other half is working remotely from European locations. The team rarely meets and gives employees freedom in terms of how and when a team member works. Pienaar explains, “To a large extent this hasn’t mattered at all. In terms of building a team &amp; company, we’ve been unaffected as we have e-mail, <a href="http://www.skype.com">Skype</a> &amp; <a href="http://www.basecamphq.com/?source=svn_post">Basecamp</a> to collaborate with each other irrespective of our location. This has also meant that we can hire top talent from anywhere in the world.”
 
 It’s not just the tools that make the collaboration work. “I think the main reason we managed to make that arrangement work is our trust of each other and also our interest and passion for a shared goal,” says Pienaar. “A lot of what we were doing was never formalized on paper and we were just working based on the friendships that we forged online; friendships that could only be formed as a result of the passion &amp; ideas we shared.”
@@ -34,7 +34,7 @@ The company also has a community of around 26,000 designers, developers, blogger
 
 Oh, and the team is trying to avoid going another long span without ever seeing each other. Now they try to organize a WooTeam meetup at least once every 6 months.
 
-<strong>Advice for others</strong> 
+### Advice for others 
 Pienaar’s advice to others who want to start a business:
 
 <a href="http://www.woothemes.com/themes/" class="image">![samples](assets/images/woo_themes_samples.png)</a>

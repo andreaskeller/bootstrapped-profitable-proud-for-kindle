@@ -8,7 +8,7 @@ Not knowing what to sell, Seidle (right, in a photo from <a href="http://money.c
 
 Now, SparkFun helps customers assemble all kinds of projects, from <a href="http://www.sparkfun.com/tutorials/235">an earthquake data logger</a> to <a href="http://www.sparkfun.com/tutorials/180">a high altitude balloon</a> to <a href="http://www.sparkfun.com/tutorials/139">a touchscreen mouse</a>. Products include things like resistors, LEDs, humidity sensors, and <span class="caps">LCD</span> screens which are sold to crafters, designers, artists,  DJs, teachers, professors, and engineers. In addition to <a href="http://www.sparkfun.com/tutorials">online tutorials</a>, SparkFun now offers <a href="http://www.sparkfun.com/categories/154">classes</a> too.
 
-<strong>Starting from scratch</strong> 
+### Starting from scratch 
 The business began with about $2500 worth of credit card debt, according to Seidle. “I believe about $2000 went to inventory purchases and $500 went to infrastructure including $25 for a scale, $15 for a tape gun, etc. I forgot to buy boxes to actually ship product to customers. How I made it this far is good fodder for pundits.”
 
 <a href="http://www.flickr.com/photos/51276066@N00/5484115925/" title="Arduino Mobile Camera by Dr_Speed, on Flickr" class="image">![Arduino Mobile Camera](assets/images/5484115925_d87ef614fe.jpg)</a>
@@ -26,7 +26,7 @@ Taxes were also a major obstacle. Seidle: “It took a long time for me to reali
 
 But there have been lucky breaks along the way too. Case in point: the commercial building SparkFun uses. Seidle: “We initially rented 25% of the building with another tenant taking 75%. That tenant (a very large corporation with many facilities) decided to close up shop in our building, leaving 75% of the building empty while their remaining five year lease ticked away. Had we been in any other normal situation, SparkFun would have had to move every year as we expanded rapidly. Luckily, we were able to take on more space as we grew. I can’t emphasize enough how crucial this one piece has been to our growth.”
 
-<strong>“I made work a place I wanted to be”</strong> 
+### “I made work a place I wanted to be” 
 Seidle has never worked at a real company, which he views as “both a benefit and a problem.” “When I started SparkFun, I didn’t have preconceived notions of what a ‘real’ company did,” he explains. “I didn’t own khaki colored pants and I couldn’t afford new ones. I like comfortable shoes. I like funny t-shirts. So I made work a place I wanted to be.
 
 “Then someone asked if they could bring in their dog. I’m not a dog person, but I respect people’s enjoyment of their dog. So once they assured me their dog wouldn’t be a problem, I let people bring in their four-legged friend.
@@ -37,7 +37,7 @@ Seidle has never worked at a real company, which he views as “both a benefit a
 
 The unorthodox workplace has led to some interesting scenarios. For example, there was the time employee Gordon Koch broke his leg on the production floor when he fell off his skateboard. “That was a fun day!” Seidle recalls sarcastically. “We called up the company that carries our workman’s compensation insurance and kindly let them know about the situation. We were a bit worried that we would get our insurance dropped. But by making skateboarding a priority at SparkFun — it’s part of the culture — we were able to convince our carrier to specifically add skateboarding as a ‘form of transit’ within our policy. With a little patience and discussion, the accident was properly covered by insurance, Gordon got a cast, and life was just fine.”
 
-<strong>Growing with friends</strong> 
+### Growing with friends 
 Seidle has also veered from the conventional wisdom that you shouldn’t work with friends or family. “Everyone told me not to hire friends or family. I did exactly that,” he says. “My first hire was a good friend of mine. He needed a job between college and applying for law school. We negotiated a salary during a hike up Mt. Evans. At the time I wasn’t even sure I would have the cash to pay his unbelievably low salary. Later I hired more of my friends, even my brother and mother.
 
 “I hired any friend I could talk into working at SparkFun. Soon, we were asking our friends if they had friends, or siblings, or anyone they knew that would want to work at SparkFun. It seems silly to say, but of course they recommended people they wanted to work with. If you start with good people, they tend to multiply.
@@ -52,5 +52,5 @@ What’s the goal for SparkFun moving forward? “To have people flex their crea
 
 <em>This is part of our <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">“Bootstrapped, Profitable, &amp; Proud”</a> series which profiles companies that have over one million dollars in revenues, didn’t take VC, and are profitable.</em>
 
-<strong>Note: Nathan Seidle answers reader questions in the comments.</strong>
+### Note: Nathan Seidle answers reader questions in the comments.
 

@@ -17,14 +17,14 @@ Students use realsmart to build “learning portfolios” via collaborative webs
 ![gwyn](assets/images/DSC08000.jpg)
 <em>Gwyn ap Harri at Arsenal football stadium, where smartassess sponsored <a href="https://www.ssatrust.org.uk/achievement/pages/achievementshow.aspx">the Achievement Show 2010</a>.</em>
 
-<strong>Getting off the ground</strong> 
+### Getting off the ground 
 It wasn’t an instant hit though. “We used the money from the screen recording software to create our first version of realsmart, but it looked crap, and it didn’t do that much to be honest. It was like trying to sell half a car. We knew we weren’t going to be able to sell enough to fund the next step. We were spending more on diesel than we were bringing in.”
 
 So Gwyn went to the bank and borrowed £70k as a business loan. “That’s all we’ve ever used of someone else’s money, and we’ve now paid it back. We made it look nice, and got just enough functionality in for it to be a goer, and off we went. After shedding blood, sweat and tears, we now fund all our development internally, but I wouldn’t be adverse to going to the bank to kickstart another project. I just wouldn’t do it by VC. Shares = blood, sweat and tears, not money.”
 
 Was he ever tempted to go with investors? “No, and for quite a few reasons. One was that I had a bit of an experience opening an internet cafe with investors that went bad. I was determined to have control and use self-generated money. And if it didn’t work within those parameters, then it didn’t work. I’ve got to say though, in the early days, it was tough. And it took hard work, determination, guts and balls. We had a few people sniffing around, and when things are tough, it’s tempting. But I’m so glad now that we didn’t.”
 
-<strong>Transitioning from teaching</strong>
+### Transitioning from teaching
 Gwyn kept working as a teacher and then moved full time into software development in 2006. According to Gwyn, it wasn’t a tough decision to make. “I felt I’d run my course at the school I was at. I was ready for a new challenge, and to be honest, I really didn’t see it as a massive risk,” he says. “The worst that could have happened would have been that it didn’t work out and I got another teaching job. How is that risky? I saw staying in teaching as being more risky by missing my opportunity.”
 
 It wasn’t always easy to be patient though. “The toughest thing for me is to accept that things take time, and some things are a function of time,” he says. “Especially if you are on the edge of things, you need people to catch up before you see the profitability of your great idea. You have to keep saying the same things, keep doing the same things until people believe in you. You are what you do, and if you consistently keep doing great things, you become great.”
@@ -32,7 +32,7 @@ It wasn’t always easy to be patient though. “The toughest thing for me is to
 ![students](assets/images/DSC_9943.jpg)
 <em>Gwyn: “We invite schools into the office, and encourage them to allow the students to decide whether they want to use our software (our <span class="caps">REAL</span> clients).”</em>
 
-<strong>Used by over 300 UK schools</strong> 
+### Used by over 300 UK schools 
 Eventually, business started booming. According to Gwyn, the company is now turning over £1m+ with “a decent percentage profit” and hoping to break £2m this year. “We’ve got over 300 secondary (K12) schools using realsmart which costs schools £3k per year, and that’s about 10% of the total market in the UK,” says Gwyn. And the students are using the tools too. “Our kids have created 7k+ blogs and podcasts, 10k+ websites, 12k+ mind maps, 102k+ passports and 150k+ self-assessed portfolios, collaborating 650k+ times. Considering schools don’t really use collaborative web technologies very well, I’d say that’s success!”
 
 Along the way, Gwyn has kept the software focused on the needs of students. “The amount of times I’ve said no to teachers demanding I allow them to put grades into realsmart! If you put grades in, the kids’ portfolios are no longer theirs. It just destroys the whole point of it. So I won’t do it.”
@@ -40,7 +40,7 @@ Along the way, Gwyn has kept the software focused on the needs of students. “T
 ![staff](assets/images/CIMG2728.jpg)
 <em>The smartassess crew.</em>
 
-<strong>The workplace</strong> 
+### The workplace 
 The company is now up to 15 full time employees but wants to keep the number right around there after a few years of rapid growth. “We want to concentrate on productivity and profitability per head,” says Gwyn. “We don’t think we’re quite there yet, and we want the solution of adding more people to be the last thing we do. We want to be a slim, agile organisation – not a fat, slow one!”
 
 The company has an open plan office in Sheffield, UK with a separate presentation/meeting/group room. Gwyn says, “Each area is split up into sub sections. We tend to migrate and work to the place where we think we will be most productive. We’re more than comfortable working away from the office. Our sales team hardly ever come in, and we follow the sales pipeline in a Google spreadsheet. We’ve worked very hard on improving communication between ourselves, and especially between our programmers, and despite the distractions, the open plan office, with flexible quiet spaces has helped immensely with this.”
@@ -48,12 +48,12 @@ The company has an open plan office in Sheffield, UK with a separate presentatio
 ![office](assets/images/CIMG2731.jpg)
 <em>A look at the office.</em>
 
-<strong>Going for more than profit</strong> 
+### Going for more than profit 
 Gwyn points out that profit isn’t the company’s sole goal. “We see our profit as reflecting how successful we are at what we do in the real world. We’re not ‘screwing’ schools, they’re buying into what we do and obviously get more out of our technologies than we are charging them. Win, win. As a company, creating the most profit we can isn’t the main objective. It’s the measure of how well we are doing. Our goal is to improve the learning opportunities for our children through technology. Profit is a result of us doing this successfully. It means that people understand and agree and buy in to what we are trying to do in the real world.”
 
 And there’s definitely no plan to sell the company. “Selling smartassess would be like selling my family. You don’t ‘achieve’ a family, then sell it off for money, and try to make a better one. Well, I don’t anyway!”
 
-<strong>Advice for starters</strong> 
+### Advice for starters 
 Here’s Gwyn’s advice to others considering starting a business:
 
 Ask yourself if you’ve got the passion and commitment to actually do it. And is it really that much of a gamble?

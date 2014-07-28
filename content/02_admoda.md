@@ -10,7 +10,7 @@ Terry Jackson, <span class="caps">CEO</span> and founder of Admoda, had this to 
 
 A fun little April Fool’s joke — but one inspired by frustration. “Many companies seem far more excited about sending out a press release regarding a round of funding then they would if they clinched a great sale or shipped a superb product,” explains Jackson when asked why the company posted the fake release. “It’s as if raising finance is the end goal for some businesses — like a prize or some kind of status symbol. It’s always press releases about VC funding too  — I’ve noticed bank loans are not that cool. Investment is great if it is for the right reasons. But it should not be considered as a goal for a business in itself.”
 
-<strong>How Admoda started</strong> 
+### How Admoda started 
 Back in 2002, Jackson founded MobVision, a group of businesses selling mobile content and mobile affiliation services. By 2005, he realized clients were struggling for ways to get traffic and thus the idea for Admoda sprouted. He felt that building an ad network for companies to buy and sell mobile traffic seemed a natural service to launch.
 
 ![TJ](assets/images/TJ_headshot.JPG)In 2006, Jackson (pictured at left) and co-founder David Salgado launched Admoda. It’s a global network run out of London, UK. There’s also a partner service called Adultmoda for mobile ad campaigns aimed at adults.
@@ -21,19 +21,19 @@ The founders funded themselves through their own cash, though they didn’t need
 
 The company has been profitable since shortly after launch and the number of ad requests per month has doubled in the last year, according to Jackson. The combined networks currently see over 7.5 billion ad requests per month. While Admoda is slightly larger, Adultmoda is the largest adult mobile ad network in the world.
 
-<strong>Productivity as a measure of success</strong> 
+### Productivity as a measure of success 
 Profit is key, but Jackson feels productivity is also a good way to measure the success of a business. “We far outstrip the productivity of any of our competitors when you compare the volume of business our small team delivers compared to our larger VC funded competitors with their massive pools of staff and global offices,” he says.
 
 Jackson feels using a company head count as something to brag about is ridiculous. (Admoda has a core team of only nine people.) “If you have the productivity to match the head count, great. But raising $40m and recruiting 85 employees does not constitute a good business — or a successful one.”
 
-<strong>Exit strategy, or lack thereof</strong> 
+### Exit strategy, or lack thereof 
 <a href="http://www.admoda.com/%20class=" image>![home](assets/images/admoda_home.png)</a>Admoda isn’t interested in the acquisition game either. He says, “Virtually all mobile phone ad networks at the moment are raising investment, spending money, making a loss, and desperately trying to be acquired by someone with very deep pockets,” he says. “This is not a scenario that comes along and attacks from behind. Companies and the founders create their own destiny. Once you set off on the route of needing to make money you end up on a very different road than companies who don’t necessarily need to make money quickly because they have investment.”
 
 Being funded by profit results in different choices. “We have to carefully decide where to channel our available resources,” he explains. “It also means we focus on making money rather than spending it, which requires a very different approach to business compared to many of our competitors. You can sense the desperation from some VC funded mobile advertising companies who are not yet acquired.”
 
 Would Jackson consider selling? “We are making good money and enjoying ourselves. Why bother selling it?” he asks. “If the right ‘cash’ buyer comes along at some point we would talk. Funnily enough, when you focus on growing a great business you actually create a very valuable business as a by product anyway! Focusing on business plans and running around institutions trying to raise investment is an enormous drain on resource and means you are not concentrating on your business.”
 
-<strong>Culture: “We do what we do”</strong> 
+### Culture: “We do what we do” 
 Jackson describes Admoda’s culture as “we do what we do.” A big part of that: Saying no. “We say no to a lot of business propositions,” he explains. “A key part of our strategy is choosing who not to work with. Many companies get sucked into trying to accommodate every opportunity that comes along, instead of focusing on making their core offering the very best it can be. We only develop features and tools that the majority of our clients need. On the business side, we only work with clients who are ready to buy or sell mobile traffic right now.”
 
 One example: Admoda and Adultmoda actually <a href="http://www.admoda.com/?p=286">reject around 70% of all publisher registrations</a>, in order to ensure that ads are served on quality sites and in quality apps. That means higher returns for advertisers and more money for publishers.
@@ -47,7 +47,7 @@ Admoda avoids meetings too. “Half the time meetings are totally unproductive a
 
 As for the adult nature of Adultmoda, Jackson’s fine with it. “We never once considered ignoring the adult sector. Why should we?” he asks. “It is a massive industry that is perfect for mobile phones. Most of our competitors have something in their Ts &amp; Cs that forbid advertising adult products, or placing their ads on adult sites. Why? Adult is a hugely profitable sector, but mentioning it might tarnish the reputation of the VC’s involved or the company’s executives. In practice, most of those same competitors’ ads frequently show up on adult sites. It’s quite common for adult ads to be there too, so there is a degree of hypocrisy going on. We prefer to be upfront and honest about it – we’re happy to do business with adult brands through Adultmoda.”
 
-<strong>Hiring</strong> 
+### Hiring 
 Jackson’s advice on hiring:
 
 Hire the best you can afford, once you have clearly identified the role. Particularly if you have a technical business you must hire the best programmers/developers/engineers – I can’t stress that enough. Mediocre developers will develop a mediocre product. An experienced person brings just that… experience. They have seen and handled many of the situations and challenges they will come across as part of your growing business. An experienced person will slot into the team quickly, communicate well, and deliver the goods.
@@ -59,7 +59,7 @@ Also avoid hiring someone who will work on stuff which is ‘nice to have’. To
 ![staff](assets/images/Admoda_Staff.png)
 <em>Jackson: “All our team are dotted all over the place at the moment (UK, Spain, and India!) so getting them together for a team photo was not possible. Therefore we put together a little collage of us all doing various things!”</em>
 
-<strong>Bootstrapping advice</strong> 
+### Bootstrapping advice 
 Before you give up your day job, Jackson suggests considering the following questions:
 
 Do you have the money to get started? Do you need any money? Look into that side of things – particularly cash flow. You may have low overheads but if your clients only ever pay for your service 6 months in arrears you may need some working capital – or look at another pricing structure.

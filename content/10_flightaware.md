@@ -8,7 +8,7 @@ Baker then started working during his free time to build an infrastructure for p
 
 The rapid growth led to hardware and bandwidth expenses. At first, Baker used his credit card to cover the costs. He says, “Initially, I bought a server for $6K and just put it on my AmEx.  I figured it would all work out; I did the math and at our October 2005 run rate of $20/day, I’d be able to pay myself back in just under a year.  I was OK with that.  Quickly, it became clear that we were going to grow a little faster than that and we all chipped in for more hardware, some graphic design, and bandwidth.  All in all, we only fronted about $25K before we broke even in March of 2006. And we have been profitable ever since then.”
 
-<strong>The inside scoop on flights</strong> 
+### The inside scoop on flights 
 Now, the site is a full fledged hit. Unlike airline-centric sites that simply pass on the flight status straight from the airlines, FlightAware.com shows the real-time, inside scoop from air traffic control data and other operational data sources. This includes radar positions, flight plan re-routes, and weather on interactive maps, delay projections, trends, and more. According to Baker, the site serves over two million people per month, split about 50/50 between airline and private flights. It displays over 150M ads every month.
 
 <a href="http://flightaware.com/" class="image">![home](assets/images/573-flight_aware_home.png)</a>
@@ -17,7 +17,7 @@ Additional revenue comes from commercial data services. Baker explains, “Every
 
 FlightAware did over a million dollars in the first 18 months after it launched, according to Baker. “It’s pretty remarkable considering we had no business strategy or real products back then,” he says. “Now, sales are in the millions, we continue to grow revenue 40-75% a year, we’ve got over 20 employees and offices in two cities (Houston, New York) and three data centers (Houston, New York, London). We think it’s a rate we can sustain for several years before we need to expand the strategy.”
 
-<strong>Not your typical dot com</strong> 
+### Not your typical dot com 
 A young internet company means everyone rolls in at noon, plays ping pong, and wears shorts, right? Not at FlightAware. “We start answering the phones at 7am on weekdays — we’re open 7 days a week, by the way. Almost everyone is in by 9am, and we dress up,” says Baker. “Unlike a lot of ‘dot coms,’ we’re involved in decision-making for aircraft operations, crew scheduling, and travel plans.  Our customers don’t have any sense of humor about outages, delayed data, or missing deadlines on custom projects.  Accordingly, we try to act more like an enterprise services business — we’re maniacs about monitoring, redundancy, and we definitely don’t use a clever error page with a cartoon.
 
 ![office](assets/images/fa_office.jpg)
@@ -34,7 +34,7 @@ A young internet company means everyone rolls in at noon, plays ping pong, and w
 “Matt Davis from our sales team realized we could combine a bunch of different features and data and sell it to FBOs, terminals for private jets.  He named it <a href="http://flightaware.com/commercial/fbotoolbox"><span class="caps">FBO</span> Toolbox</a> and he sells it for $100/month (competitive products are around $1K/month).  He convinced one of our developers to put a few hours into it every now and then and now we’ve sold hundreds of licenses in the 14 months since the product launch.  It does fuel price trending and figures out how much fuel an inbound aircraft needs and all sorts of amazing stuff.  There was no official company initiative to make that happen and the <span class="caps">CTO</span> and I have had no involvement.  He recently 
 asked if he could get our creative design firm to make a brochure (<a href="http://s3.amazonaws.com/37assets/svn/FA-066-FBOToolbox-v6.pdf"><span class="caps">PDF</span></a>) for it and I agreed; I was amazed to see how many features it has!  Pretty cool.”
 
-<strong>Growing pains</strong> 
+### Growing pains 
 As for growing pains, Baker says the toughest part has been turning employees from doers into managers. “FlightAware, like a lot of companies, started out with people who are ‘rock stars’ at their particular niche,” he says. “The rock star developer, the rock star database architect, the rock star biz guy, etc.  That’s how we created a killer product so fast, got millions of users, tons of press, thousands of customers.
 
 “Then, the company grew into a real business with a corporate structure, and the original ‘rock star’ guys suddenly had to become managers of employees and worry about various project deadlines.  It makes sense and it’s a natural way to grow, but then we realized that we had our ‘rock star’ people in key positions where their primary job is not their core competency.
@@ -43,7 +43,7 @@ As for growing pains, Baker says the toughest part has been turning employees fr
 
 “I use myself as an example a lot.  Every day I’m doing something I’ve never done before.  I’ve never been the <span class="caps">CEO</span> of a 6 year old company.  I’ve been the <span class="caps">CEO</span> of FlightAware as a 1, 2, 3, 4, 5 year old company — so I’ve done that  — but every day I’m running a company that’s larger than any other company I’ve run before.”
 
-<strong>Exit strategy?</strong> 
+### Exit strategy? 
 One thing Baker fights against is being a slave to customer requests. He says, “Customers — or prospective customers — will often say, ‘If you just build X, I would buy it and you could sell it to everyone.’ And it’s really tempting to go and make that product.  However, I’ve been burned by that both at FlightAware and at previous companies.  The problem is that people don’t actually know what they want until it exists.  It’s not that customers are stupid or something, because I’m the same way; I’ll regularly demand that a feature should work one way and then when I see it, I realize it doesn’t actually make sense or wasn’t as good an idea as I originally thought.”
 
 ![iphone](assets/images/flight_1.jpeg)

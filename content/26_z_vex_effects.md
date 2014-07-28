@@ -6,7 +6,7 @@ Billy Corgan, Jack White, Trent Reznor, The Edge, Daniel Lanois, Joe Perry. They
 
 ![pedals](assets/images/zvex_pedals.png)
 
-<strong>The light bulb moment</strong> 
+### The light bulb moment 
 The first pedal Vex ever built was formed out of a small plastic fishing tackle box.  “My older brothers got me into electric guitar and they worked at an injection molding company so we had lots of these plastic boxes around, and they and my cousins played through a Maestro Fuzz Tone at my uncle’s house, which I found extremely exciting-sounding,” says Vex. “In high school I heard that sound again. A student was in a practice room with a guitar, amp, and some little box with sliders on it which sounded identical to a Jordan Boss Tone.  I knocked on the door and introduced myself, and he explained he’d broken his Jordan enclosure so badly he had to re-house it.  A light bulb went off for me. I realized I could build my own effects.  I used a schematic from an article in Popular Electronics (my mom got me the subscription) and built my first fuzz in 10th grade, and sold it to that student for $10 a few weeks later. He loved it.”
 
 Vex then went on to build and sell tube amps and amp modifications throughout the 1980s. He did electronics tech work, owned a recording studio from 1985 to 1991, and then worked as an independent recording engineer/producer until 1995. That’s when he started Z.Vex Effects.
@@ -17,14 +17,14 @@ Vex: “My first Z.Vex pedal was an improvement on an Apollo Fuzz-Wah fuzz, whic
 
 ![FF](assets/images/fuzzfactory.jpg)That was in June of 1995. Vex’ signature pedal, <a href="http://zvex.com/fuzz.html">The Fuzz Factory</a>, was designed during a late night that November. He recalls, “I remember staying up all night working on it, falling asleep and, upon awakening, wondering if it still would sound as cool as it had the night before.  It did!  I was in heaven.  I loved how weird it was. I had no idea others would like something that essentially sounds out of control on many settings.”
 
-<strong>Become a viable business</strong> 
+### Become a viable business 
 At first, distribution came one store at a time. Vex explains, “My first advantage was getting into one very famous store, WIllie’s American Guitars, then into his friend’s store Make’n Music, and then going on a road trip and getting into Rudy’s Music Stop, which caused us to blow up as a result of PJ Harvey’s guitarist Joe stopping in and buying an Octane, Fuzz Factory and Super Hard-On, and then writing about them in Guitar Player magazine.  That was probably 1996 or 1997. We were able to get into a lot of other stores after that. Now I’m not really the ‘little guy’ anymore.”
 
 ![holds pedal](assets/images/zachary.jpg)It was a viable business almost right away, according to Vex. By 1996, he had to hire an assembler and had already gone through three painters. Now, he employs six full-time people, three part-time, and a number of independent contractors, as well as partnering with a manufacturer in Taiwan for the <a href="http://zvex.com/vexter.html">Vexter</a> products, a more affordable line of pedals that are hand-silkscreened instead of hand-painted.
 
 The Taiwanese partnership raised eyebrows at first. Vex says, “Many of my dealers warned me off introducing the Taiwanese copies of our Fuzz Factory and Box of Rock, saying it would destroy our credibility.  I saw it as an opportunity to introduce many other players to our products, people who knew who we are but couldn’t afford the hand-painted, lifetime warranty products.  I knew it was a good idea.  It was scary, though.  Going into the unknown is always scary.  But fun.”
 
-<strong>Open-source pedals</strong> 
+### Open-source pedals 
 Vex is now <a href="http://www.wired.com/gadgetlab/2010/01/namm-a-mad-professor-of-the-stompbox-goes-open-source/">bringing an open-source mentality to the pedal world</a> with <a href="http://www.zvex.com/inventobox.html">The Inventobox</a>. It’s a <span class="caps">DIY</span> pedal kit that lets you alter circuits and create your own pedal sounds. It also includes wires, tools, and spare parts you need to put it all together. Vex plans to give away his pedal recipes online for free too.
 
 Vex envisions hackers will use the Inventobox, which ships in April, both for tweaking his designs and for developing their own pedals. The modules can be chained together, so people can layer multiple tone circuits on top of one another inside a single pedal.
@@ -43,7 +43,7 @@ He’s not worried about clones either. “Most people who ‘rip off’ pedal m
 
 "That’s one thing that has really helped us over the years.  If someone sees a genuine Z.Vex pedal on eBay at a great price and they’re not sure if it works, they know they can get it fixed right and fixed cheap (or free for life, if it’s hand-painted) so they don’t have to worry about the condition of the electronics."
 
-<strong>The Minneapolis office</strong> 
+### The Minneapolis office 
 The Z. Vex offices are in a a building in Uptown, Minneapolis, on a long greenway. “It’s a hip neighborhood with a lot of fun performance venues and great bars,” says Vex. “My employees generally set their own hours, some arriving early, some staying late into the night.  I usually come in during the afternoon and work into the evening with my engineer Joel.  We like the later hours because there are less interruptions. I’ve always been a night person. People are often amazed that I answer their emails instantly at 3AM. Seems normal to me. I was up until about 8AM the night I designed the Fuzz Factory.”
 
 ![vex](assets/images/zach_hat.jpg)

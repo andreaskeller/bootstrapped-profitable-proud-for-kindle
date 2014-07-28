@@ -2,7 +2,7 @@
 
 <em>Below: We’re getting so many submissions for our <a href="http://bit.ly/ccc5C7">“Bootstrapped, Profitable, &amp; Proud” series</a> that it’s tough to find room to profile everyone. So here’s a roundup post featuring a quick look at several different companies that have $1M+ in revenues, didn’t take VC, and are profitable.</em>
 
-<strong>Litmus</strong> 
+### Litmus 
 <a href="http://litmusapp.com/">Litmus</a> is a tool for email marketers. It helps them test their email designs across a range of different email clients. The founders attended 37signals’ Building of Basecamp workshop in Copenhagen and afterwards self-funded the business. It’s now “significantly above $1m in revenue, very profitable, and growing by around 10% every month,” according to founder Paul Farnell.
 
 ![preview](assets/images/preview_email.png)
@@ -24,7 +24,7 @@ Since then we’ve made some big calls not to build features that other people a
 
 <a href="http://litmusapp.com/">Visit Litmus.</a>
 
-<strong>A Small Orange</strong>   
+### A Small Orange   
 Douglas Hanna is <span class="caps">CEO</span> of hosting company <a href="http://asmallorange.com/">A Small Orange</a> and writes, “A Small Orange has had over $1,000,000 in revenue for more than three years now and has been well in the green pretty much since it was founded. We have 13 full-time employees and about 25,000 or so customers.”
 
 Here’s why his company emphasizes customer support:
@@ -34,7 +34,7 @@ Here’s why his company emphasizes customer support:
 <a href="http://asmallorange.com/">Visit A Small Orange</a>
 <a href="http://asmallorange.com/hosting/shared/facilities.php">Photos of the company’s datacenter.</a>
 
-<strong>TechSmith</strong> 
+### TechSmith 
 ![hamilton](assets/images/2486716815_b3f4acdd5d.jpg)Bill Hamilton is founder and president of <a href="http://www.techsmith.com/">TechSmith</a>, which makes products like Snagit, Camtasia Studio, Jing, Morae, Camtasia Relay and Screencast.com. Here he explains the company’s growth:
 
 We’ve grown from approximately $1.8 million in 1999 to just over $34 million in 2009. And we’ve been profitable every year. We’ve also launched several new products along the way, including several that have been localized into German, French, Korean and Japanese. We’ve also gone from about a dozen people in 1999 to about 210 people now.
@@ -45,7 +45,7 @@ I think it’s important to learn a lot about what the components of a business 
 
 <a href="http://www.techsmith.com/">Visit TechSmith.</a>
 
-<strong>IData Inc.</strong> 
+### IData Inc. 
 <a href="http://www.idatainc.com/">IData Inc.</a> is a technology consulting firm for higher education institutions. IData has 18 employees, over $2 million in revenue, and over 50 universities as clients, according to founder and President Brian Parish. Here’s Brian’s advice for starting a business:
 
 ![BP](assets/images/parishbrian-1.jpg)Patience. Some of the biggest mistakes I make are when I know I should be waiting, but I am afraid I will miss the opportunity if I do not act. This does not mean you shouldn’t take risks, but it does mean that you shouldn’t act just because you think someone else will beat you to it.

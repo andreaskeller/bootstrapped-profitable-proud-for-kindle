@@ -7,7 +7,7 @@
 That desire led to BigCommerce, which is now approaching 10,000 paying customers. According to Harper, the company has grown 480% over the last 4 years and is the fastest growing ecommerce platform in the world. It was ranked the
 14th fastest growing software company (#633 overall) on <a href="http://www.inc.com/inc5000/2010/index.html">the Inc 5,000 list for 2010</a> and it now has 50 employees spread between its Sydney, Australia and Austin, Texas offices.
 
-<strong>From chat room to company</strong> 
+### From chat room to company 
 Harper (right in photo below) and partner Eddie Machaalani (left) had each started a content management system already — Harper built SiteWorks, Machaalani created WebEdit — when they met in a programming chat room. They realized they were both in Sydney and eventually decided to join forces to build software together under the name Interspire.
 
 ![bigcomm_founders](assets/images/bigcomm_founders.png)When they launched the Interspire Shopping Cart, it attracted thousands of businesses. Customers weren’t completely satisfied with the installable software though. Harper says, “We had so many people telling us how awesome it was, but that they didn’t want to have to deal with finding their own servers, installing it, upgrading it, etc. So that’s where the idea for BigCommerce came from.” BigCommerce lets customers create customized online stores via the web. These retailers can then access orders, products, inventory, and more without ever having to download any software.
@@ -16,12 +16,12 @@ According to Harper, ease of use (e.g. embedding help tips and links to knowledg
 
 Constant iterations have also helped. “We release major new features every 6-8 weeks and we’re working on getting that down to once a week. We look at BigCommerce as part of a larger pie that business owners need to compete. The other parts of the pie are order management software, accounting software, and analytics software. So making these integrations simple means BigCommerce can be used by hundreds of different types of businesses.”
 
-<strong>Growth without funding</strong> 
+### Growth without funding 
 The company’s early success with email marketing and knowledge management software meant they could launch BigCommerce without seeking funding. “We’ve had interest from at least two dozen VCs but so far we’ve decided that bootstrapping is better for us,” Harper says. “We don’t want to give up our decision making. And the idea of giving a stranger a piece of ownership in the company in return for cash still doesn’t sit right.”
 
 Harper fears venture capital would mean forcing growth merely for the sake of growth. “As boring as it sounds, you have to grow slowly and carefully. If we took a few million dollars of VC money and started advertising on TV for example, sure we’d probably bring on 1,000 new customers in the next week. But if our support team can’t handle them then they’ll leave and go somewhere else,” he explains.
 
-<strong>Marketing by teaching</strong>
+### Marketing by teaching
 “The biggest thing we’ve done marketing-wise is build a great product,” says Harper. “You can throw all the money you want at marketing but if your software sucks, then it’ll just be a waste.”
 
 That said, Harper does feel educational videos have been key to BigCommerce’s success. He has <a href="http://www.youtube.com/user/bigcommercedotcom">a YouTube guru channel</a> with videos that teach marketing, business, and social media lessons. The channel began in mid-2009 and has attracted over 500,000 views so far.
@@ -32,7 +32,7 @@ The idea for the videos came to Harper after he kept hearing similar feedback fr
 
 “I wanted to make these marketing concepts easy to understand and I wanted to teach by example which is really important for me. There are too many ‘teachers’ that teach concepts they’ve never used themselves. I’m teaching from experience, not from a text book — so when I talk about a marketing idea I give a real life example of how we’ve used it to grow our business. And I’m not trying to sell anything in the videos — I’m not hawking an eBook or trying to sell a $10,000 course like most other people who record videos.”
 
-<strong>Bringing enterprise-type features to small businesses</strong>
+### Bringing enterprise-type features to small businesses
 Though the founders want to grow organically, they still have a lofty goal: to make BigCommerce “the standard e-commerce solution.” Harper points to <a href="http://www.constantcontact.com/index.jsp">ConstantContact</a> for email marketing and <a href="http://quickbooks.intuit.com/">Quickbooks</a> for accounting as examples of products that have become industry standards in a way they’d like to emulate.
 
 Harper also wants to shake up the e-commerce space. “It’s been so stagnant and so boring for such a long time,” he explains. “We’re trying to get enterprise-type features into shopping cart software that any small business owner can use. For example, BigCommerce has a <span class="caps">CRM</span> system and automated inventory management. A few years ago you’d have to spend $50,000 on <a href="http://www.netsuite.com/">Netsuite</a> or $500,000 on <a href="http://www.gsicommerce.com/"><span class="caps">GSI</span> Commerce</a> to get these seemingly basic features.
@@ -44,7 +44,7 @@ Part of this effort means redefining the way people think of e-commerce. Harper 
 ![hween](assets/images/bigcomm_hween.png)
 <em>Halloween costume contest at the BigCommerce office.</em>
 
-<strong>Related:</strong> 
+### Related: 
 <a href="http://www.bigcommerce.com/">Visit BigCommerce</a>
 <a href="http://www.google.com/search?q=bootstrapped+profitable+proud&amp;sitesearch=37signals.com">More “Bootstrapped, Profitable, &amp; Proud” posts</a> [Signal vs. Noise]
 

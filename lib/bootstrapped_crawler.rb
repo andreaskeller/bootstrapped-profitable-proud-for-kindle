@@ -14,6 +14,9 @@ class BootstrappedCrawler
   
   # Crawls the bootstrapped start page
   def crawl
+    if @companies.empty?
+      delete_all_files
+    end
     url = 'http://37signals.com/bootstrapped'
     doc = Nokogiri::HTML get_html(url)
     doc.search("div.articles a").each do |link|
@@ -24,6 +27,7 @@ class BootstrappedCrawler
       end
     end
     write_wordsmith_file
+    number_chapter_files
   end
   
   # Writes the wordsmith meta file
@@ -36,6 +40,12 @@ class BootstrappedCrawler
       f.puts "title:     Bootstrapped, Profitable, & Proud"
 #      f.puts "cover:     assets/images/cover.jpg"
     end   
+  end
+  
+  def delete_all_files
+    Dir.glob('content/*.md') do |f|
+      run_shell_command "rm #{f}"
+    end
   end
   
   # Take all markdown files, sort them alphabetically and number them 
@@ -111,9 +121,10 @@ class BootstrappedCrawler
         images = p.css("img")
         p.css("br").remove
         html = p.inner_html
+        html = replace_strong_tags_with_headlines(html)
         unless images.empty?
           images.each do |img|
-            local_filename = "assets/images/" + img[:src][/[^\/]+$/, 0]
+            local_filename = "assets/images/" + img[:src][/[^\/]+$/, 0].gsub(/\s/, "-")
             unless File.file?(local_filename)
               src = img[:src]
               if src[0, 2] == "//"
@@ -128,6 +139,10 @@ class BootstrappedCrawler
         f.puts
       end
     end
+  end
+  
+  def replace_strong_tags_with_headlines(html)
+    html.gsub(/<strong>(.*?)<\/strong>/, "### \\1")
   end
   
   def get_html(url)

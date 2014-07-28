@@ -27,7 +27,9 @@ class BootstrappedCrawler
       end
     end
     write_wordsmith_file
-    number_chapter_files
+    if @companies.empty?
+      number_chapter_files
+    end
   end
   
   # Writes the wordsmith meta file
@@ -130,7 +132,7 @@ class BootstrappedCrawler
               if src[0, 2] == "//"
                 src = "http:#{src}"
               end
-              run_shell_command("curl -sL #{src} > #{local_filename}")
+              run_shell_command("curl -sL #{src.gsub(/\s/, '%20')} > #{local_filename}")
             end
             html.sub!(/<img[^>]*>/, "![#{img[:alt]}](#{local_filename})")
           end
